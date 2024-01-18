@@ -19,5 +19,19 @@
         "description": "By searching a city, you get de max and min temperature, wind, humidity and current temperature.",
         "skills": ["Angular"],
         "source": "https://github.com/VaniaMMorais/WeatherApp"
+    },
+    {
+        "title": "Delicious- Food Blog",
+        "imageSrc": "projects/delicious.png",
+        "description": "A website that offers access to a variety of recipes. By logging in, users can save their favourite recipes, manage their shopping lists and their fridges. It is also possible to create and edit new recipes.",
+        "skills": ["Django", "HTML", "SCSS"],
+        "source": "https://github.com/VaniaMMorais/TPW_proj1"
+    },
+    {
+        "title": "Readly- eStore",
+        "imageSrc": "projects/readly.png",
+        "description": "A website where you can buy books (with checkout and package tracking). ",
+        "skills": ["React"],
+        "source": "https://github.com/PackagePal/Readly-eStore"
     }
   ]
