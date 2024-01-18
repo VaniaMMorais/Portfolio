@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Easy farming",
+      "imageSrc": "projects/easyFarming.png",
+      "description": "Online advice system for agriculture that allows the user to enter information about their crops and receive notifications for their management.",
+      "skills": ["HTML", "CSS", "Python", "Java"],
+      "source": "https://github.com/VaniaMMorais/IES/tree/main/IES_Project"
+    },
+    {
+        "title": "Millionare Quiz App",
+        "imageSrc": "projects/millionare.png",
+        "description": "The Millionaire Quiz App is an interactive quiz application that offers users an engaging and challenging experience.",
+        "skills": ["React"],
+        "source": "https://github.com/VaniaMMorais/React-Millionaire-Quiz-App"
+    },
+    {
+        "title": "Weather App",
+        "imageSrc": "projects/weather.png",
+        "description": "By searching a city, you get de max and min temperature, wind, humidity and current temperature.",
+        "skills": ["Angular"],
+        "source": "https://github.com/VaniaMMorais/WeatherApp"
+    }
+  ]
