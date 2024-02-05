@@ -50,7 +50,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
-    align-items: flex-start;
+    position: relative;
   }
 
   .text {
