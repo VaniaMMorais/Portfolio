@@ -42,5 +42,9 @@
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Three.js",
+      "imageSrc":"skills/threejs.png"
     }
   ]

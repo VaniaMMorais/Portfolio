@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Student at University of Aveiro</h3>
               <p>
-                I'm about to finish my Bachelor's degree in Computer Science
+              I have a Bachelor's in Computer Science and Engineering and I'm starting a Master's Degree in Communication and Web Technologies.
               </p>
             </div>
           </li>
